@@ -11,5 +11,6 @@ int main(int argc,char *argv[])
 
 void print_s(char *s)
 {
+  printf("%s\n",s);
   printf("hello world");
 }
